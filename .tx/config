@@ -1,0 +1,43 @@
+[main]
+host = https://www.transifex.com
+
+[q2a-finnish-suomi-translation.qa-lang-adminphp]
+file_filter = qa-lang-admin.php
+source_lang = en
+type = PHP_ARRAY
+
+[q2a-finnish-suomi-translation.qa-lang-emailsphp]
+file_filter = qa-lang-emails.php
+source_lang = en
+type = PHP_ARRAY
+
+[q2a-finnish-suomi-translation.qa-lang-mainphp]
+file_filter = qa-lang-main.php
+source_lang = en
+type = PHP_ARRAY
+
+[q2a-finnish-suomi-translation.qa-lang-miscphp]
+file_filter = qa-lang-misc.php
+source_lang = en
+type = PHP_ARRAY
+
+[q2a-finnish-suomi-translation.qa-lang-optionsphp]
+file_filter = qa-lang-options.php
+source_lang = en
+type = PHP_ARRAY
+
+[q2a-finnish-suomi-translation.qa-lang-profilephp]
+file_filter = qa-lang-profile.php
+source_lang = en
+type = PHP_ARRAY
+
+[q2a-finnish-suomi-translation.qa-lang-questionphp]
+file_filter = qa-lang-question.php
+source_lang = en
+type = PHP_ARRAY
+
+[q2a-finnish-suomi-translation.qa-lang-usersphp]
+file_filter = qa-lang-users.php
+source_lang = en
+type = PHP_ARRAY
+
