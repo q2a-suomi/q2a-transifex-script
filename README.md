@@ -25,12 +25,14 @@ username = käyttäjätunnus
 ```
 Huom! Token jää tyhjäksi. 
 
-## .tx kansio
+**.tx kansio** 
 
 Lisäksi itse repositoryn sisällä on ".tx" kansio, jossa on "config" tiedosto, jossa määritellään muun muassa millä 
 nimillä tiedostot tallennetaan ja minne.
 
 ## Skriptin suorittaminen
 
-Sen jälkeen asetat skriptin crontabiin tai voit tietysti manuaalisesti ajaa skriptin tyyliin: ```bash $ 
-./update-files-to-github.sh ```
+Sen jälkeen asetat skriptin crontabiin tai voit tietysti manuaalisesti ajaa skriptin tyyliin: 
+```bash 
+$ ./update-files-to-github.sh 
+```
